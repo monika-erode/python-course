@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "YOUR MESSAGE"
+
+git branch -M main
+
+git remote add origin "YOUR REPO URL"
+
+git push -u origin main
